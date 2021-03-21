@@ -1,7 +1,7 @@
 # Portfolio Template
 
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
-# [*LIVE!*](https://usanoweb.github.io/)
+# [*LIVE!*](https://usanoweb.github.io/Portfolio-template/)
 
 ## Features
 
